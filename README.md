@@ -11,11 +11,19 @@ Uses gesture control to change the volume of a computer. First we look into hand
 
 ## ⬇️ Installations
 
-```pip install mediapipe```
-  for Hand Tracking/Detection , Hand Landmarks
-
-```pip install pycaw```
-  for Volume Controller
+```pip install opencv-python``` 
+   for image processing and drawing
   
+```pip install mediapipe```
+   for Hand Tracking and Detection , Hand Landmarks 
+
+```pip install pycaw``` 
+   (**Python Core Audio Windows Library** by AndreMiras) for Volume Controller
+  
+```pip install numpy```
+  
+## :camera_flash:Implementation
+  
+- Demo: https://www.youtube.com/watch?v=nYB0xn__wZ4
   
 
