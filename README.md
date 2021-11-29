@@ -18,7 +18,7 @@ Uses gesture control to change the volume of a computer. First we look into hand
    for Hand Tracking and Detection , Hand Landmarks 
 
 ```pip install pycaw``` 
-   (**Python Core Audio Windows Library** by AndreMiras) for Volume Controller
+   (**Python Core Audio Windows Library** by AndreMiras) for linking with the system's volume
   
 ```pip install numpy```
   
